@@ -69,7 +69,7 @@ This repo gives you all three.
 ### 1. Clone & install
 
 ```powershell
-git clone https://github.com/SilentProcess87/leak-and-seek.git
+git clone https://github.com/crtx-pub/leak-and-seek.git
 cd leak-and-seek
 
 # Node deps (Playwright)
